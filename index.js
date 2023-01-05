@@ -1,8 +1,8 @@
 var jpdbBaseURL = "http://api.login2explore.com:5577";
 var jpdbIRL = "/api/irl";
 var jpdbIML = "/api/iml";
-var stuDBName = "STU-DB";
-var stuRelationName = "StuData";
+var stuDBName = "SCHOOL-DB";
+var stuRelationName = "STUDENT-TABLE";
 var connToken = "90938229|-31949273319067151|90954974";
 
 $("#sturollno").focus();
